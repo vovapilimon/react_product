@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "title": "Товар 13",
+    "price": 1,
+    "maxQty": 10
+  },
+  {
+    "id": 401,
+    "title": "Товар 26",
+    "price": 4,
+    "maxQty": 3
+  },
+  {
+    "id": 131,
+    "title": "Товар 3",
+    "price": 7,
+    "maxQty": 0
+  },
+  {
+    "id": 144,
+    "title": "Товар 766",
+    "price": 3,
+    "maxQty": 7
+  },
+  {
+    "id": 198,
+    "title": "Товар 66",
+    "price": 5,
+    "maxQty": 4
+  },
+  {
+    "id": 109,
+    "title": "Товар 59",
+    "price": 8,
+    "maxQty": 4
+  },
+  {
+    "id": 107,
+    "title": "Товар 4",
+    "price": 10,
+    "maxQty": 10
+  }
+]
